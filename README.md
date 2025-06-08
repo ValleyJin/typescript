@@ -6,7 +6,7 @@
 
 ### 로컬 설치 (권장)
 ```bash
-# 개발 의존성으로 설치
+# typescript는 개발과정에서만 필요하므로 배포판에 포함되지 않도록 --save--dev옵션으로 설치
 npm install --save-dev typescript
 
 # 또는 정확한 버전 지정 설치
